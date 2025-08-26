@@ -25,16 +25,15 @@ It replicates the look and feel of Netflix's homepage with sections like hero ba
 ---
 
 ## 📂 Project Structure
-eventbuzz/
-│-- index.html # Main HTML file
-│-- style.css # Stylesheet
-│-- ASSETS/ # Images, logos, etc.
 
+│-- Assets # images and videos
+|-- index.html # Main HTML file
+│-- style.css # Stylesheet
 
 ---
 
 ## 📸 Preview
-![Netflix Clone Screenshot](ASSETS/images/preview.png)
+![Netflix Clone Screenshot] (D:\WEB DEVELOPMENT\CSS\video 53 (project 1 NETFLIX)\ASSESTS\images\preview.png)
 
 ---
 
