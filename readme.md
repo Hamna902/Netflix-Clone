@@ -24,21 +24,6 @@ It replicates the look and feel of Netflix's homepage with sections like hero ba
 
 ---
 
-## 📂 Project Structure
-
-project-root/
-│-- index.html # Main HTML file
-│-- style.css # Stylesheet
-│-- preview.png # Project preview image (for README)
-│-- ASSETS/ # Images, logos, and media files
-
-
----
-
-## 📸 Preview
-![Netflix Clone Screenshot](preview.png)
----
-
 📌 Future Improvements
 
 - Add JavaScript for FAQ toggle animations
