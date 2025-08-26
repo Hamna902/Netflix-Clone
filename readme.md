@@ -24,6 +24,11 @@ It replicates the look and feel of Netflix's homepage with sections like hero ba
 
 ---
 
+## 📸 Preview
+![Netflix Clone Screenshot](preview.png)
+
+---
+
 📌 Future Improvements
 
 - Add JavaScript for FAQ toggle animations
